@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AppAngular12 - WGC';
+  //Api Falsa para pruebas
+  //npm i -g json-server
 }
